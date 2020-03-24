@@ -1,0 +1,26 @@
+section#seccion-sucursales {
+    padding-top: 66px;
+}
+
+div#advertencia {
+    background-color: #ffae00;
+}
+
+p#advertencia {
+    font-size: 1rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+div#mapa {
+    margin-top: 22px;
+    height: 500px;
+    background-color: rgb(255, 251, 215);
+}
+
+div#mapa iframe {
+    width: 100%;
+    height: 100%;
+}

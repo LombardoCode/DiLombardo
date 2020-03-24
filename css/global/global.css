@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    background: #000000;
+}
+
+body {
+    opacity: 0;
+    transition: 0.5s opacity;
+}
+
+p {
+    font-family: 'PT Sans', 'Arial', sans-serif;
+}
+
+.fadeIn {
+    opacity: 1;
+}
+
+h3 {
+    font-family: 'Oswald';
+    font-size: 2.2rem;
+    text-align: center;
+    padding: 22px 0px;
+    text-transform: uppercase;
+}
+
+.degradado-blanco-gris {
+    background: linear-gradient(to bottom right, #ffffff, rgb(202, 202, 202));
+}
+
+.color-naranja {
+    color: #dd6300;
+}
+
+.outline-naranja {
+    border: 2px solid #dd6300;
+}

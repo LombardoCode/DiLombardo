@@ -1,0 +1,8 @@
+/* Sección: "Contacto" */
+section#seccion-contacto {
+    padding-top: 80px;
+}
+
+section#seccion-contacto p {
+    font-size: 1.5rem;
+}

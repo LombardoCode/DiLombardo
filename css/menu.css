@@ -1,0 +1,22 @@
+/* Sección: "Menu" */
+section#seccion-menu {
+    padding-top: 80px;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card div.imagen-platillo img {
+    width: 100%;
+}
+
+h4.nombre-platillo {
+    font-family: 'Oswald', 'Arial', sans-serif;
+    font-size: 2rem;
+}
+
+p.descripcion-platillo {
+    font-size: 1.2rem;
+}

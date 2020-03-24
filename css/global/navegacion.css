@@ -1,0 +1,14 @@
+.navbar {
+    font-family: 'Oswald', 'Nunito Sans', 'Arial', sans-serif;
+    background: #000000 !important;
+    z-index: 3;
+    text-transform: uppercase;
+}
+
+.navbar img {
+    height: 40px;
+}
+
+.navbar a {
+    font-size: 1.2rem;
+}
